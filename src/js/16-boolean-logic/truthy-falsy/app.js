@@ -1,31 +1,32 @@
-const userInput = prompt("Enter something");
+const userInput = prompt('Enter something')
 
 if (userInput) {
-    console.log("TRUTHY!")
+    console.log('Truthy!')
 } else {
-    console.log("FALSY!")
+    console.log('Falsy!')
 }
 
 // if (0) {
-//     console.log("TRUTHY")
+//     console.log('Truthy!')
 // } else {
-//     console.log("FALSY")
+//     console.log('Falsy!')
 // }
 
 // if (NaN) {
-//     console.log("TRUTHY")
+//     console.log('Truthy!')
 // } else {
-//     console.log("FALSY")
+//     console.log('Falsy!')
 // }
 
 // if (undefined) {
-//     console.log("TRUTHY")
+//     console.log('Truthy!')
 // } else {
-//     console.log("FALSY")
+//     console.log('Falsy!')
 // }
 
 // if (' ') {
-//     console.log("TRUTHY")
+//     console.log('Truthy!')
 // } else {
-//     console.log("FALSY")
+//     console.log('Falsy!')
 // }
+
