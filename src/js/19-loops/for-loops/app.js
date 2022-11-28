@@ -58,3 +58,13 @@ for (let i = 10; i <= 1000; i *= 10) {
 }
 
 */
+
+// infinite loop (DO NOT DO THIS!)
+
+/*
+
+for (let i = 20; i >= 0; i++) {
+    console.log(i);
+}
+
+*/
